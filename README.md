@@ -1,8 +1,8 @@
 ### Hi! 👋{^-^}🤙
 
-- ⚡ My name is Maxi, and I´m a Frontend Developer.
-
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+- ⚡ My name is Maxi, and I´m a Frontend Developer.
 
 - 🔭 Here's an overview of the technologies I'm currently diving into:
 
