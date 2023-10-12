@@ -1,4 +1,4 @@
-### Hi! 👋{^-^}🤙
+### Hi! {^-^}
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
